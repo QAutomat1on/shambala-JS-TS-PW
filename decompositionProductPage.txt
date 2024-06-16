@@ -1,0 +1,99 @@
+//example:  https://shambala.com.ua/noski-muzhskie-smartwool-phd-ski-light-black-r.m-sw-sw005.001-m/
+
+header-top:
+- brands
+- shops
+- customers
+- our projects
+- blog 
+- facebook(social media transition)
+- instagram(social media transition)
+- youtube(social media transition)
+- telegram(social media transition)
+- tik-tok(social media transition)
+- language menu
+- comparison option
+- favorites
+- sign in
+
+header-middle
+- search
+- cart
+
+main 
+    - product picture 
+    - Product name
+    - Написати відгук
+    - порівняти 
+    - в бажання
+    - Реєструйся
+    - Дисконтна программа 
+    - колір
+    - розмірна таблиця
+    - таблиця розмірів бренду
+    - приміряти онлайн
+    - купити 
+    - в кредит 
+    - Замовити швидко
+    - оплата частинами 1
+    - оплата частинами 2
+
+    - З цим купують carousel 
+
+    - Схожі товари
+ 
+    - Доставка
+    - Оплата
+    - Гарантія
+    - Магазини 
+    - Відеоконсультація 
+
+    - Самовивіз з магазинів Shambala
+    - Більше інформації про доставку 
+
+
+
+    -Goods which I've seen recently
+
+footer
+    - Каталог
+        - чоловікам
+        - жінкам
+        - одяг
+        - взуття
+        - рюкзаки
+        - кухня
+        - Туризм, кемпінг
+        - Альпінізм та скелелазіння
+        - Зимовий спорт
+        - Велоспорт
+        - Розпродаж
+    - Клієнтам
+        - вхід до кабінету
+        - бренда 
+        - магазини
+        - клієнтам 
+        - наші проекти
+        - блог 
+        - мапа сайту 
+            - facebook(social media transition)
+            - instagram(social media transition)
+            - youtube(social media transition)
+            - telegram(social media transition)
+            - tik-tok(social media transition)
+
+
+    - Контактна інформація
+        - передзвонити вам? 
+        - Viber transition
+        - Telegram transition
+
+    Shop Addresses
+    - Shop 1
+    - Shop 2
+    - Shop 3
+    - Shop 4
+    - Shop 5
+    - Shop 6
+
+    - Мапа проїзду
